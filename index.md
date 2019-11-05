@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Formal Methods for the Informal Engineer
+FMIE aims to be a venue both for collecting the success stories of formal methods, and for connecting researchers to aspiring users. For its first year in 2020, we aim to gather a small set of researchers and a larger set of aspiring practitioners, primarily from the US Northeast region, in areas such as healthcare and safety-critical systems. FMIE will be a 2-day event, with a day of hands-on tutorials followed by a day of talks, targeting around 15 speakers and 60 attendees.
 
-You can use the [editor on GitHub](https://github.com/fmie/fmie.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fmie/fmie.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Program Commitee
+Gopal Sarma, Broad Institute of MIT and Harvard
+Jimmy Koppel, MIT CSAIL
+Ramana Kumar, DeepMind
+Eric Drexler, Future of Humanity Institute at Oxford University
+Patric Schultz, Broad Institute of MIT and Harvard
+Gregory Malecha, BedRock Systems
