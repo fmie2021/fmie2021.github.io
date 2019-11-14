@@ -1,5 +1,6 @@
 theme: jekyll-theme-slate
-title: [Formal Methods for the Informal Engineer]
+name: [Formal Methods for the Informal Engineer]
+title: null
 description: [March 19-20 at the Broad Institute of MIT and Harvard]
 github:
   is_project_page: false
