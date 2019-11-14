@@ -11,5 +11,5 @@ Gopal Sarma, Broad Institute of MIT and Harvard
 Jimmy Koppel, MIT CSAIL  
 Ramana Kumar, DeepMind  
 Eric Drexler, Future of Humanity Institute at Oxford University  
-Patric Schultz, Broad Institute of MIT and Harvard  
+Patrick Schultz, Broad Institute of MIT and Harvard  
 Gregory Malecha, BedRock Systems  
