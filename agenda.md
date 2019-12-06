@@ -4,8 +4,8 @@ All events will be held in the Yellowstone conference room on the 2nd floor of t
 
 ### Hands on Tutorials
 
-Cody Roux, Draper Laboratories  
-Phil Zucker, Draper Laboratories
+Cody Roux, Draper Laboratory
+Phil Zucker, Draper Laboratory
 
 ## Day 2
 
