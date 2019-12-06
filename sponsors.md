@@ -1,3 +1,2 @@
 We are extremely grateful for our sponsors:
-![Broad]({{ fmie.github.io }}/assets/broad.png)
-![DeepMind]({{ fmie.github.io }}/assets/deepmind.png)
+![Sponsors]({{ fmie.github.io }}/assets/sponsors.png)
