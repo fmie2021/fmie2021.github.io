@@ -10,7 +10,7 @@ Phil Zucker, Draper Laboratories
 ## Day 2
 
 ### Session 1: General Topics I
-Kathleen Fisher, Tufts/Darpa (keynote)  
+**Kathleen Fisher, Tufts/DARPA (keynote)**  
 James Koppel, MIT CSAIL  
 Adam Chilpala, MIT CSAIL
 
@@ -19,7 +19,7 @@ Greg Malecha, BedRock Systems
 Joseph Tassarotti, Boston College
 
 ### Session 3: General Topics II
-John Harrison, Amazon Web Services (keynote)  
+**John Harrison, Amazon Web Services (keynote)**  
 [Speaker TBD]
 
 ### Session 4: Formal Methods and Machine Learning
