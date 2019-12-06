@@ -1,2 +1,2 @@
-We are extremely grateful for our sponsors:
-![Sponsors]({{ fmie.github.io }}/assets/sponsors.png)
+We are extremely grateful for our sponsors:  
+<img src="https://github.com/fmie/fmie.github.io/blob/master/assets/sponsors.png?raw=true" width="400">
