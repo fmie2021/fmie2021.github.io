@@ -3,9 +3,15 @@ All events will be held in the Yellowstone conference room on the 2nd floor of t
 ## Day 1
 
 ### Hands on Tutorials
-
-Cody Roux, Draper Laboratory
-Phil Zucker, Draper Laboratory
+8:00 AM - 8:45 AM Breakfast and Registration  
+8:45 AM - 9:00 AM Opening Remarks  
+9:00 AM - 12:00 PM Tutorial 1  
+Cody Roux, Draper Laboratory "An Introduction to the Coq Theorem Prover"
+_(30 min coffee break from 10:00AM-10:30AM)_  
+12:00 PM - 2:00 PM Lunch
+2:00 PM - 5:00 PM Tutorial 2  
+Phil Zucker, Draper Laboratory "An Introduction to the Z3 Theorem Prover"  
+_(30 min coffee break from 3:00PM-3:30PM)_
 
 ## Day 2
 
