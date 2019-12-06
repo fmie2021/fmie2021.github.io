@@ -35,7 +35,7 @@ Joseph Tassarotti, Boston College
 **John Harrison, Amazon Web Services (keynote)**  
 [Speaker TBD]
 
-#### 2:00 PM - 2:30 PM: Lunch
+#### 2:00 PM - 2:30 PM: Coffee Break
 
 ### Session 4: Formal Methods and Machine Learning (2:30PM - 4:00PM)
 Nathan Fulton, MIT-IBM Watson AI Laboratories  
