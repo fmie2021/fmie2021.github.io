@@ -35,12 +35,12 @@ Joseph Tassarotti, Boston College
 **John Harrison, Amazon Web Services (keynote)**  
 Hillel Wayne, Windy Coast Consulting
 
-#### 2:00 PM - 2:30 PM: Coffee Break
+#### 2:30 PM - 3:00 PM: Coffee Break
 
-### Session 4: Robust Machine Learning (2:30PM - 4:00PM)
+### Session 4: Robust Machine Learning (3:00PM - 4:30PM)
 Michael Carbin, MIT CSAIL    
 Nathan Fulton, MIT-IBM Watson AI Laboratories    
 Mathew Mirman, ETH Zurich    
 
 
-### Panel Discussion and Closing Remarks (4:00 PM - 5:00 PM)
+### Panel Discussion and Closing Remarks (4:30 PM - 5:30 PM)
