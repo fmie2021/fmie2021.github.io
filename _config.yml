@@ -1,5 +1,9 @@
 theme: jekyll-theme-minimal
 name: "Formal Methods for the Informal Engineer"
-title: "Formal Methods for the Informal Engineer"
-description: ["March 19-20 at the \n Broad Institute of MIT and Harvard"]
+title: |+
+  This is a long string
+
+
+  with new lines
+description: ["March 19-20 at the Broad Institute of MIT and Harvard"]
 site.github.is_user_page: false
