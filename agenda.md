@@ -25,11 +25,11 @@ Adam Chilpala, MIT CSAIL
 
 #### 10:00 AM - 10:30 AM: Coffee Break
 
-### Session 2: Verified Software Components (10:30 AM - 12:00 PM)
+### Session 2: Verified Software Components (10:30 AM - 11:30 AM)
 Gregory Malecha, BedRock Systems  
 Joseph Tassarotti, Boston College
 
-#### 12:00 PM - 1:00 PM: Lunch
+#### 11:30 AM - 1:00 PM: Lunch
 
 ### Session 3: Distributed Systems (1:00 PM - 2:30 PM)
 **John Harrison, Amazon Web Services (keynote)**  
