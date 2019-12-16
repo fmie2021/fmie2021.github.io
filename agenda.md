@@ -31,7 +31,7 @@ Joseph Tassarotti, Boston College
 
 #### 12:00 PM - 1:00 PM: Lunch
 
-### Session 3: General Topics II (1:00 PM - 2:30 PM)
+### Session 3: Distributed Systems (1:00 PM - 2:30 PM)
 **John Harrison, Amazon Web Services (keynote)**  
 Hillel Wayne, Windy Coast Consulting
 
