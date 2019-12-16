@@ -18,7 +18,7 @@ _(30 min coffee break from 10:00AM-10:30AM)_
 7:00 AM - 7:45 AM Breakfast and Registration  
 7:45 AM - 8:00 AM Opening Remarks 
 
-### Session 1: General Topics I (8:00 AM - 10:00 AM)
+### Session 1: General Topics (8:00 AM - 10:00 AM)
 **Kathleen Fisher, Tufts/DARPA (keynote)**  
 James Koppel, MIT CSAIL  
 Adam Chilpala, MIT CSAIL
