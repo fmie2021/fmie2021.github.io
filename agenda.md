@@ -33,13 +33,13 @@ Joseph Tassarotti, Boston College (11:35 AM - 12:00 PM)
 
 ### Session 3: Distributed Systems
 Hillel Wayne, Windy Coast Consulting (1:00 PM - 1:25 PM)  
-**Keynote: John Harrison, Amazon Web Services (keynote) (1:25 PM - 2:25 PM)**  
+**Keynote: John Harrison, Amazon Web Services (1:25 PM - 2:25 PM)**  
 
 #### 2:25 PM - 2:55 PM: Coffee Break
 
 ### Session 4: Robust Machine Learning 
 Michael Carbin, MIT CSAIL (2:55 PM - 3:20 PM)  
 Nathan Fulton, MIT-IBM Watson AI Laboratories (3:20 PM - 3:45 PM)  
-Mathew Mirman, ETH Zurich (3:45 PM - 4:10 PM) . 
+Mathew Mirman, ETH Zurich (3:45 PM - 4:10 PM)   
 
-### Closing Remarks (4:10 PM - 4:20 PM)
+#### Closing Remarks (4:10 PM - 4:20 PM)
