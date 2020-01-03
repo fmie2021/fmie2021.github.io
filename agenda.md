@@ -30,6 +30,7 @@ _Using Formal Methods to Eliminate Exploitable Bugs_
 ### Session 2: Verified Software Components
 Gregory Malecha, BedRock Systems (11:10 AM - 11:35 AM)  
 Joseph Tassarotti, Boston College (11:35 AM - 12:00 PM)  
+_Verifying Concurrent, Crash-Safe Systems with Perennial_  
 
 #### 12:00 PM - 1:00 PM: Lunch (provided)  
 
