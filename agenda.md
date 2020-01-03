@@ -21,7 +21,8 @@ _(30 min coffee break from 3:00PM-3:30PM)_
 ### Session 1: General Topics
 James Koppel, MIT CSAIL  (9:00 AM - 9:25 AM)  
 Adam Chilpala, MIT CSAIL (9:25 AM - 9:50 AM)  
-**Keynote: Kathleen Fisher, Tufts University (9:50 AM - 10:40 AM)**    
+**Keynote: Kathleen Fisher, Tufts University (9:50 AM - 10:40 AM)**  
+_Using Formal Methods to Eliminate Exploitable Bugs_  
 
 #### 10:40 AM - 10:50 AM: Message from Sponsors
 #### 10:50 AM - 11:10 AM: Coffee Break
