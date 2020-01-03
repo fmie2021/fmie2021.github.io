@@ -33,7 +33,7 @@ _Using Formal Methods to Eliminate Exploitable Bugs_
 
 ### Session 2: Verified Software Components
 Gregory Malecha, BedRock Systems (11:10 AM - 11:35 AM)  
-_Title TBA_  
+_Formal Verification of Concurrent C++ Programs_  
 
 Joseph Tassarotti, Boston College (11:35 AM - 12:00 PM)  
 _Verifying Concurrent, Crash-Safe Systems with Perennial_  
