@@ -23,7 +23,7 @@ James Koppel, MIT CSAIL  (9:00 AM - 9:25 AM)
 _Why Haven't PL/FM Tools Taken Over the World?_  
 
 Adam Chilpala, MIT CSAIL (9:25 AM - 9:50 AM)  
-_Title TBA_  
+_Mechanized Proofs of Secure and Open-Source Embedded Systems_  
 
 **Keynote: Kathleen Fisher, Tufts University (9:50 AM - 10:40 AM)**  
 _Using Formal Methods to Eliminate Exploitable Bugs_  
