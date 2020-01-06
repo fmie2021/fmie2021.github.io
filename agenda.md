@@ -10,7 +10,7 @@ _(30 min coffee break from 10:00AM-10:30AM)_
  
 #### 12:00 PM - 2:00 PM Lunch    
 
-### Tutorial 1: The Coq Theorem Prover (2:00 PM - 5:00 PM)
+### Tutorial 2: The Coq Theorem Prover (2:00 PM - 5:00 PM)
 Cody Roux, Draper Laboratory  
 _(30 min coffee break from 3:00PM-3:30PM)_
 
