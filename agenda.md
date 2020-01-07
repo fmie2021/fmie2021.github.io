@@ -58,6 +58,6 @@ Nathan Fulton, MIT-IBM Watson AI Laboratories (3:10 PM - 3:35 PM)
 _A Formal Methods Perspective on Safe Reinforcement Learning_  
 
 Mathew Mirman, ETH Zurich (3:35 PM - 4:00 PM)   
-_Title TBA_  
+_Safe Deep Learning_  
 
 #### Closing Remarks (4:00 PM - 4:15 PM)
