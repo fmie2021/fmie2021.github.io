@@ -8,7 +8,8 @@ All events will be held in the Yellowstone conference room on the 2nd floor of t
 Phil Zucker, Draper Laboratory    
 _(30 min coffee break from 10:00AM-10:30AM)_
  
-#### 12:00 PM - 2:00 PM Lunch    
+#### 12:00 PM - 2:00 PM Lunch  
+_\[Lunch will not be provided on the first day, but please see this [map](https://github.com/fmie/fmie.github.io/raw/master/assets/broad_map_eateries.pdf) of the many local eateries just a short walk from the Broad in the Kendall Square. Food can also be purchased from the Fooda stand just outside the conference room on the 2nd floor of the Broad.\]_
 
 ### Tutorial 2: The Coq Theorem Prover (2:00 PM - 5:00 PM)
 Cody Roux, Draper Laboratory  
@@ -19,11 +20,11 @@ _(30 min coffee break from 3:00PM-3:30PM)_
 8:45 AM - 9:00 AM Opening Remarks
 
 ### Session 1: General Topics
-James Koppel, MIT CSAIL  (9:00 AM - 9:25 AM)  
-_Why Haven't PL/FM Tools Taken Over the World?_  
-
-Adam Chilpala, MIT CSAIL (9:25 AM - 9:50 AM)  
+Adam Chilpala, MIT CSAIL (9:00 AM - 9:25 AM)  
 _Mechanized Proofs of Secure and Open-Source Embedded Systems_  
+
+James Koppel, MIT CSAIL (9:25 AM - 9:50 AM)  
+_Why Haven't PL/FM Tools Taken Over the World?_  
 
 **Keynote: Kathleen Fisher, Tufts University (9:50 AM - 10:40 AM)**  
 _Using Formal Methods to Eliminate Exploitable Bugs_  
@@ -57,6 +58,6 @@ Nathan Fulton, MIT-IBM Watson AI Laboratories (3:10 PM - 3:35 PM)
 _A Formal Methods Perspective on Safe Reinforcement Learning_  
 
 Mathew Mirman, ETH Zurich (3:35 PM - 4:00 PM)   
-_Title TBA_  
+_Safe Deep Learning_  
 
 #### Closing Remarks (4:00 PM - 4:15 PM)
