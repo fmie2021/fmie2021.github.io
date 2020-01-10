@@ -5,14 +5,16 @@ All events will be held in the Yellowstone conference room on the 2nd floor of t
 8:45 AM - 9:00 AM Opening Remarks  
 
 ### Tutorial 1: The Z3 Theorem Prover (9:00 AM - 12:00 PM)
-Phil Zucker, Draper Laboratory    
+Phil Zucker, Draper Labs .     
 _(30 min coffee break from 10:00AM-10:30AM)_
  
-#### 12:00 PM - 2:00 PM Lunch  
+#### 12:00 PM - 1:00 PM Lunch  
 _\[Lunch will not be provided on the first day, but please see this [map](https://github.com/fmie/fmie.github.io/raw/master/assets/broad_map_eateries.pdf) of the many local eateries just a short walk from the Broad in the Kendall Square. Food can also be purchased from the Fooda stand just outside the conference room on the 2nd floor of the Broad.\]_
 
+#### 1:00 PM - 1:45 PM Tour of Broad Genomics Platform   
+
 ### Tutorial 2: The Coq Theorem Prover (2:00 PM - 5:00 PM)
-Cody Roux, Draper Laboratory  
+Cody Roux, Draper Labs    
 _(30 min coffee break from 3:00PM-3:30PM)_
 
 ## Day 2
