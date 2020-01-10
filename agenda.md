@@ -5,7 +5,7 @@ All events will be held in the Yellowstone conference room on the 2nd floor of t
 8:45 AM - 9:00 AM Opening Remarks  
 
 ### Tutorial 1: The Z3 Theorem Prover (9:00 AM - 12:00 PM)
-Phil Zucker, Draper Labs .     
+Phil Zucker, Draper Labs      
 _(30 min coffee break from 10:00AM-10:30AM)_
  
 #### 12:00 PM - 1:00 PM Lunch  
