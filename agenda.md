@@ -54,7 +54,7 @@ _Title TBA_
 
 ### Session 4: Robust Machine Learning 
 Michael Carbin, MIT CSAIL (2:45 PM - 3:10 PM)  
-_Title TBA_  
+_Engineering Approximate Computations_  
 
 Nathan Fulton, MIT-IBM Watson AI Laboratories (3:10 PM - 3:35 PM)  
 _A Formal Methods Perspective on Safe Reinforcement Learning_  
