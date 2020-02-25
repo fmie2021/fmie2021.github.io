@@ -45,7 +45,7 @@ _Verifying Concurrent, Crash-Safe Systems with Perennial_
 
 ### Session 3: Distributed Systems
 Hillel Wayne, Windy Coast Consulting (1:00 PM - 1:25 PM)  
-_Title TBA_  
+_Designing Distributed Systems with TLA+_  
 
 **Keynote: John Harrison, Amazon Web Services (1:25 PM - 2:15 PM)**  
 _Title TBA_  
