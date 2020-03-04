@@ -48,7 +48,7 @@ Hillel Wayne, Windy Coast Consulting (1:00 PM - 1:25 PM)
 _Designing Distributed Systems with TLA+_  
 
 **Keynote: John Harrison, Amazon Web Services (1:25 PM - 2:15 PM)**  
-_Title TBA_  
+_Adventures in Verifying Arithmetic_  
 
 #### 2:15 PM - 2:45 PM: Coffee Break
 
