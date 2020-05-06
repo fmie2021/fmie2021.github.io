@@ -1,4 +1,4 @@
-*_[Due to new policies addressing COVID-19, FMIE has been postponed for the time being. Updates will be posted here and through the registration email list for previously registered workshop participants.]_*
+**_[Due to new policies addressing COVID-19, FMIE has been postponed for the time being. Updates will be posted here and through the registration email list for previously registered workshop participants.]_**
 
 Formal Methods for the Informal Engineer (FMIE) is a workshop aimed at highlighting recent successes in the development of verified software. On the first day, to accommodate an audience consisting of many interested non-experts, we will have hands-on tutorials with two different verification technologies, the Coq and Z3 theorem provers. This will provide the audience with exposure to basic concepts of verification. The second day will feature four sessions on General Topics, Verified Software Components, Distributed Systems, and Robust Machine Learning. 
 
