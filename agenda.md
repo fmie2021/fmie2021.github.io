@@ -1,4 +1,4 @@
-All events will be held in the Yellowstone conference room on the 2nd floor of the Broad Institute at 415 Main St Cambridge, MA.
+All events will be held virtually.
 
 ## Day 1
 8:45 AM - 9:00 AM Opening Remarks  
