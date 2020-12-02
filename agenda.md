@@ -1,20 +1,20 @@
 All events will be held virtually.
 
-## Day 1
+## Day 1 (Wed, Feb. 3)
 8:45 AM - 9:00 AM Opening Remarks  
 
 ### Tutorial 1: The Z3 Theorem Prover (9:00 AM - 12:00 PM)
 Phil Zucker, Draper Labs      
 _(30 min coffee break from 10:00AM-10:30AM)_
 
-## Day 2
+## Day 2 (Thurs, Feb. 4)
 8:45 AM - 9:00 AM Opening Remarks 
 
 ### Tutorial 2: The Coq Theorem Prover (9:00 AM - 12:00 PM)
 Cody Roux, Draper Labs    
 _(30 min coffee break from 3:00PM-3:30PM)_
 
-## Day 3
+## Day 3 (Fri, Feb. 5)
 8:45 AM - 9:00 AM Opening Remarks 
 
 ### Session 1: General Topics
