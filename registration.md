@@ -1,1 +1,1 @@
-Registration for FMIE is now closed. If you have previously filled out the registration form, please understand that we hope to accommodate all participants, but due to capacity and desire for a diverse community, confirmations will be sent out by mid-February. If you are unable to attend, please note that all talks on the second day will be recorded and made available to the public.  
+Registration for FMIE2021 will begin soon. Please check back for updates.  
