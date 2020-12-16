@@ -1,4 +1,4 @@
-All events will be held virtually.
+All events will be held virtually. Times listed are [Eastern Standard Time](https://www.wolframalpha.com/input/?i=Eastern+Standard+Time).  
 
 ## Day 1 (Wed, Feb. 3)
 8:45 AM - 9:00 AM Opening Remarks  
