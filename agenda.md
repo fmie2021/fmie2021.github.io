@@ -5,7 +5,7 @@ All events will be held virtually. Times listed are [Eastern Standard Time](http
 
 ### Tutorial 1: The Z3 Theorem Prover (9:00 AM - 12:00 PM)
 Phil Zucker, Draper Labs      
-_(30 min coffee break from 10:00AM-10:30AM)_
+_(20 min coffee break from 10:10AM-10:30AM)_
 
 #### 12:00 PM - 1:00PM: Social Hour
 
@@ -14,7 +14,7 @@ _(30 min coffee break from 10:00AM-10:30AM)_
 
 ### Tutorial 2: The Coq Theorem Prover (9:00 AM - 12:00 PM)
 Cody Roux, Draper Labs    
-_(30 min coffee break from 10:00AM-10:30AM)_
+_(20 min coffee break from 10:10AM-10:30AM)_
 
 #### 12:00 PM - 1:00PM: Social Hour
 
