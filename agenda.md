@@ -25,8 +25,7 @@ _(20 min coffee break from 10:10AM-10:30AM)_
 **Keynote: Kathleen Fisher, Tufts University (9:00 AM - 9:50 AM)**  
 _Using Formal Methods to Eliminate Exploitable Bugs_  
 
-#### 9:50 AM - 10:00 AM: Message from Sponsors
-#### 10:00 AM - 10:05 AM: Break
+#### 9:55 AM - 10:05 AM: Break
 
 ### Session 2: Verified Software Components
 Gregory Malecha, BedRock Systems (10:05 AM - 10:30 AM)  
@@ -42,4 +41,4 @@ _Designing Distributed Systems with TLA+_
 Mathew Mirman, ETH Zurich (11:10 AM - 11:35 AM)   
 _Safe Deep Learning_  
 
-#### Closing Remarks and Social Hour (11:35 AM - 1:00 PM)
+#### Closing Remarks and Social Hour (11:40 AM - 1:00 PM)
