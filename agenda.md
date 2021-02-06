@@ -29,7 +29,7 @@ _(20 min coffee break from 10:10AM-10:30AM)_
 
 ### Session 2: Verified Software Components
 Gregory Malecha, BedRock Systems (10:05 AM - 10:30 AM)  
-_Bringing Verification to the Mainstream: Verifying Concurrent C++_  
+[_Bringing Verification to the Mainstream: Verifying Concurrent C++_](https://github.com/fmie2021/fmie2021.github.io/blob/master/assets/gregory_malecha_FMIE2021.pdf)  
 
 ### Session 3: Distributed Systems
 Hillel Wayne, Windy Coast Consulting (10:35 AM - 11:00 AM)  
