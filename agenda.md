@@ -23,13 +23,13 @@ _(20 min coffee break from 10:10AM-10:30AM)_
 
 ### Session 1: General Topics
 **Keynote: Kathleen Fisher, Tufts University (9:00 AM - 9:50 AM)**  
-[_Using Formal Methods to Eliminate Exploitable Bugs_](https://prezi.com/view/wocsIaIBMqtvH2gf3zFF/)  
+_Using Formal Methods to Eliminate Exploitable Bugs_[slides](https://prezi.com/view/wocsIaIBMqtvH2gf3zFF/)  
 
 #### 9:55 AM - 10:05 AM: Break
 
 ### Session 2: Verified Software Components
 Gregory Malecha, BedRock Systems (10:05 AM - 10:30 AM)  
-[_Bringing Verification to the Mainstream: Verifying Concurrent C++_](https://github.com/fmie2021/fmie2021.github.io/blob/master/assets/gregory_malecha_FMIE2021.pdf)  
+_Bringing Verification to the Mainstream: Verifying Concurrent C++_[slides](https://github.com/fmie2021/fmie2021.github.io/raw/master/assets/gregory_malecha_FMIE2021.pdf)  
 
 ### Session 3: Distributed Systems
 Hillel Wayne, Windy Coast Consulting (10:35 AM - 11:00 AM)  
