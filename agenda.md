@@ -23,7 +23,7 @@ _(20 min coffee break from 10:10AM-10:30AM)_
 
 ### Session 1: General Topics
 **Keynote: Kathleen Fisher, Tufts University (9:00 AM - 9:50 AM)**  
-_Using Formal Methods to Eliminate Exploitable Bugs_  
+[_Using Formal Methods to Eliminate Exploitable Bugs_](https://prezi.com/view/wocsIaIBMqtvH2gf3zFF/)  
 
 #### 9:55 AM - 10:05 AM: Break
 
