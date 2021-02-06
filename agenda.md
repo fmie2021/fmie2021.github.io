@@ -39,6 +39,6 @@ _Designing Distributed Systems with TLA+_
 
 ### Session 4: Robust Machine Learning 
 Mathew Mirman, ETH Zurich (11:10 AM - 11:35 AM)   
-_Safe Deep Learning_  
+_Safe Deep Learning_ [[slides]](https://github.com/fmie2021/fmie2021.github.io/raw/master/assets/matthew_mirman_FMIE2021.pdf)]
 
 #### Closing Remarks and Social Hour (11:40 AM - 1:00 PM)
