@@ -33,7 +33,7 @@ _Bringing Verification to the Mainstream: Verifying Concurrent C++_ [[slides]](h
 
 ### Session 3: Distributed Systems
 Hillel Wayne, Windy Coast Consulting (10:35 AM - 11:00 AM)  
-_Designing Distributed Systems with TLA+_  
+_Designing Distributed Systems with TLA+_ [[slides]](https://github.com/fmie2021/fmie2021.github.io/raw/master/assets/hillel_wayne_FMIE2021.pptx)
 
 #### 11:00 AM - 11:10 AM: Break
 
