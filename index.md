@@ -8,6 +8,6 @@ Ultimately, our aim is to further the development of reliable software systems b
 Gopal Sarma, Broad Institute of MIT and Harvard  
 Jimmy Koppel, MIT CSAIL  
 Ramana Kumar, DeepMind  
-Eric Drexler, Future of Humanity Institute at Oxford University  
+Eric Drexler, James Martin School at Oxford University  
 Patrick Schultz, Broad Institute of MIT and Harvard  
 Gregory Malecha, BedRock Systems  
