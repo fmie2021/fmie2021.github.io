@@ -4,9 +4,9 @@ All events will be held virtually. Times listed are [Eastern Standard Time](http
 8:45 AM - 9:00 AM [Opening Remarks](https://youtu.be/56IIrBZy9Rc?t=0s)
 
 ### [Tutorial 1: The Z3 Theorem Prover](https://youtu.be/56IIrBZy9Rc?list=PLlMMtlgw6qNiRlD_RaJMNbZj2kSUPrPtU&t=227) (9:00 AM - 12:00 PM)
-[[Tutorial Notebook]](https://github.com/philzook58/z3_tutorial)  
 Phil Zucker, Draper Labs       
-_(20 min coffee break from 10:10AM-10:30AM)_
+_(20 min coffee break from 10:10AM-10:30AM)_  
+[[Tutorial Notebook]](https://github.com/philzook58/z3_tutorial)  
 
 #### 12:00 PM - 1:00PM: Social Hour
 
@@ -14,9 +14,9 @@ _(20 min coffee break from 10:10AM-10:30AM)_
 8:45 AM - 9:00 AM [Opening Remarks](https://youtu.be/5e7UdWzITyQ?list=PLlMMtlgw6qNiRlD_RaJMNbZj2kSUPrPtU&t=0s)
 
 ### [Tutorial 2: The Coq Theorem Prover](https://www.youtube.com/watch?v=5e7UdWzITyQ&list=PLlMMtlgw6qNiRlD_RaJMNbZj2kSUPrPtU&t=215s) (9:00 AM - 12:00 PM)
-[[Tutorial Problems]](https://github.com/codyroux/broad-coq-tutorial/blob/master/tutorial) [[Tutorial Solutions]](https://github.com/codyroux/broad-coq-tutorial/blob/master/tutorial.solution.v)  
 Cody Roux, Draper Labs     
-_(20 min coffee break from 10:10AM-10:30AM)_
+_(20 min coffee break from 10:10AM-10:30AM)_  
+[[Tutorial Problems]](https://github.com/codyroux/broad-coq-tutorial/blob/master/tutorial) [[Tutorial Solutions]](https://github.com/codyroux/broad-coq-tutorial/blob/master/tutorial.solution.v)  
 
 #### 12:00 PM - 1:00PM: Social Hour
 
