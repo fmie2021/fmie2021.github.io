@@ -12,7 +12,7 @@ _(20 min coffee break from 10:10AM-10:30AM)_
 ## Day 2 (Thurs, Feb. 4)
 8:45 AM - 9:00 AM [Opening Remarks](https://youtu.be/5e7UdWzITyQ?list=PLlMMtlgw6qNiRlD_RaJMNbZj2kSUPrPtU&t=0s)
 
-### Tutorial 2: [The Coq Theorem Prover](https://www.youtube.com/watch?v=5e7UdWzITyQ&list=PLlMMtlgw6qNiRlD_RaJMNbZj2kSUPrPtU&t=215s) (9:00 AM - 12:00 PM)
+### [Tutorial 2: The Coq Theorem Prover](https://www.youtube.com/watch?v=5e7UdWzITyQ&list=PLlMMtlgw6qNiRlD_RaJMNbZj2kSUPrPtU&t=215s) (9:00 AM - 12:00 PM)
 Cody Roux, Draper Labs    
 _(20 min coffee break from 10:10AM-10:30AM)_
 
