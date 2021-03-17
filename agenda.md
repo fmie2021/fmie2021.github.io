@@ -16,7 +16,7 @@ _(20 min coffee break from 10:10AM-10:30AM)_
 ### [Tutorial 2: The Coq Theorem Prover](https://www.youtube.com/watch?v=5e7UdWzITyQ&list=PLlMMtlgw6qNiRlD_RaJMNbZj2kSUPrPtU&t=215s) (9:00 AM - 12:00 PM)
 Cody Roux, Draper Labs     
 _(20 min coffee break from 10:10AM-10:30AM)_  
-[[Tutorial Problems]](https://github.com/codyroux/broad-coq-tutorial/blob/master/tutorial) [[Tutorial Solutions]](https://github.com/codyroux/broad-coq-tutorial/blob/master/tutorial.solution.v)  
+[[Tutorial Problems]](https://github.com/codyroux/broad-coq-tutorial/blob/master/tutorial.v) [[Tutorial Solutions]](https://github.com/codyroux/broad-coq-tutorial/blob/master/tutorial.solution.v)  
 
 #### 12:00 PM - 1:00PM: Social Hour
 
